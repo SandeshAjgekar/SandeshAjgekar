@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeshAjgekar
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python, go, bash & batch scripting...
+- 👀 I’m interested in detection engineering and information security.
+- 🌱 I’m currently learning python, powershell, bash & batch scripting...
 - 📫 How to reach me - https://www.linkedin.com/in/sandesh-ajgekar
 
 <!---
